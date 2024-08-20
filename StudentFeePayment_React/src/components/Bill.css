@@ -1,0 +1,24 @@
+/* Bill.css */
+
+.bill-description {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .bill-date, .bill-amount, .pay-button {
+    min-width: 100px;
+    text-align: center;
+  }
+  
+  .pay-button {
+    background-color: #b6d2b7;
+    color: rgba(0, 128, 0, 0.431);
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  .pay-button:hover {
+    background-color: #458ba0;
+  }
+  

@@ -1,0 +1,41 @@
+/* BillService.css */
+
+.service-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .service-header {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .service-details {
+    margin-bottom: 15px;
+  }
+  
+  .service-label {
+    font-weight: bold;
+  }
+  
+  .service-value {
+    margin-top: 5px;
+  }
+  
+  .pay-button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  .pay-button:hover {
+    background-color: #45a049;
+  }
+  

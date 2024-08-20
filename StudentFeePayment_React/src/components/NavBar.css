@@ -1,0 +1,41 @@
+/* NavBar.css */
+
+.navbar {
+    background-color: #0b3544;
+    padding: 10px;
+    color: #d42e2e;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navbar-a {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    width: 20%;
+    background-color:#0b3544 ;
+  }
+  .logoutb{
+    width: 10%;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+   
+    background-color:#0b3544 ;
+  }
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
