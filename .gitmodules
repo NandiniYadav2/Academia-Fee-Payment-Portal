@@ -1,0 +1,3 @@
+[submodule "StudentFeePayment_React"]
+	path = StudentFeePayment_React
+	url = https://github.com/NandiniYadav2/StudentFeePayment_React.git
